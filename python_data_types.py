@@ -1,0 +1,20 @@
+x1=1
+x2=1.00
+x3="Sharp"
+x4=2j
+x5=["apple", "banana", "cherry"]
+x6=("hello",34,12.0)
+x7=range(3)
+x8=True
+x9=None
+x10={"name":"Ali","age":90}
+print(type(x1))
+print(type(x2))
+print(type(x3))
+print(type(x4))
+print(type(x5))
+print(type(x6))
+print(type(x7))
+print(type(x8))
+print(type(x9))
+print(type(x10))
